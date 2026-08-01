@@ -4,7 +4,6 @@
 ## Overview
 
 This project analyzes the Netflix Movies and TV Shows dataset using Python and Power BI. The goal was to clean the raw data, find insight & patterns, and build an interactive dashboard that makes it easy to understand Netflix content library.
-
 The project follows a complete data analysis workflow, starting with data cleaning in Python and ending with an interactive Power BI dashboard.
 
 ---
