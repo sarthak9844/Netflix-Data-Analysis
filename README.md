@@ -3,7 +3,7 @@
 
 ## Overview
 
-This project analyzes the Netflix Movies and TV Shows dataset using Python and Power BI. The goal was to clean the raw data, explore patterns, and build an interactive dashboard that makes it easy to understand Netflix's content library.
+This project analyzes the Netflix Movies and TV Shows dataset using Python and Power BI. The goal was to clean the raw data, find insight & patterns, and build an interactive dashboard that makes it easy to understand Netflix content library.
 
 The project follows a complete data analysis workflow, starting with data cleaning in Python and ending with an interactive Power BI dashboard.
 
@@ -36,14 +36,9 @@ The project follows a complete data analysis workflow, starting with data cleani
 ### KPI Cards
 
 * Total Titles
-* Total Movies
-* Total TV Shows
-* Total Countries
-* Total Directors
-* Latest Release Year
-* Oldest Release Year
-* Average Release Year
-* Most Common Rating
+* Categories
+* Countries
+* Latest release year
 
 ### Visualizations
 
@@ -53,30 +48,6 @@ The project follows a complete data analysis workflow, starting with data cleani
 * Rating Distribution
 * Genre Analysis
 * Release Year Trend
-
-### Interactive Filters
-
-* Content Type
-* Country
-* Rating
-* Release Year
-
----
-
-## Project Structure
-
-```text
-Netflix_Data_Analysis/
-│
-├── dataset/
-├── output/
-├── python/
-├── powerbi/
-├── images/
-├── README.md
-├── requirements.txt
-└── LICENSE
-```
 
 ---
 
@@ -102,7 +73,8 @@ Netflix_Data_Analysis/
 
 ## Dashboard Preview
 
-Add screenshots of your dashboard in the **images** folder and display them here.
+![NetFlix Dashboard](images/netflix_Dashboard.png)
+
 
 ---
 
@@ -110,4 +82,4 @@ Add screenshots of your dashboard in the **images** folder and display them here
 
 **Sarthak Singh**
 
-If you have any suggestions or feedback, feel free to connect or open an issue.
+If you have any suggestions or feedback, I'd be happy to hear them. Every project is an opportunity to learn something new, and this taught me a lot about the complete data analysis process.
